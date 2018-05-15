@@ -1,13 +1,15 @@
-git clone [url]
-git checkout [branch]
+## commands:
 
-.. after editing ..
+    - git clone [url]
+    - git checkout [branch]
 
-git add [filename] ..or.. git add .
-git commit -m "add title"
-git push origin [branch name]
+## after editing ..
 
-.. manage pull request from browser ..
+    - git add [filename] ..or.. git add .
+    - git commit -m "add title"
+    - git push origin [branch name]
+
+## manage pull request from browser ..
 
 
 ## additional
